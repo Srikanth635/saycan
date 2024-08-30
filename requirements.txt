@@ -1,0 +1,18 @@
+ftfy
+regex
+tqdm
+fvcore
+imageio==2.4.1
+imageio-ffmpeg==0.4.5
+git+https://github.com/openai/CLIP.git  # Note: Includes version control URL
+gdown  # No version specified
+pybullet
+moviepy
+flax
+openai
+easydict
+ipython
+opencv-python
+jax[cuda12]
+matplotlib
+tensorflow

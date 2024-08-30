@@ -1,0 +1,5 @@
+.venv/
+
+resources/image_path_v2/
+
+resources/dataset-9999.pkl
